@@ -1,4 +1,4 @@
-# simple_login
+# smarthome_app
 
 A new Flutter application.
 
